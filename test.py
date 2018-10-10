@@ -1,4 +1,5 @@
 #!/bin/sh
 
-print('hi')
+print('hello')
+print('testing')
 
